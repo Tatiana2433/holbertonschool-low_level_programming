@@ -4,7 +4,7 @@
 
 /**
  * main - conditions de variables
- * return : zero
+ * Return:zero
  */
 
 int main(void)

@@ -1,0 +1,23 @@
+#include <stdio.h>
+
+/**
+ * main - afficher l'alphabet et les chiffres
+ * Return: zero
+ */
+
+int main(void)
+{
+int chiffre = 0;
+while (chiffre <=9)
+{
+putchar(chiffre + '0');
+chiffre++;
+}
+char lettre = 'a';
+while (lettre <= 'e')
+{
+putchar(lettre = 'a' ; lettre <= e ; lettre++)
+}
+putchar('\n');
+return (0);
+}
